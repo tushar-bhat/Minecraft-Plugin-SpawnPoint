@@ -15,7 +15,7 @@ Minecraft spigot plugin for version 1.19.4 which provides a command to create a 
 Setting spawn and executing command - 
 
 
-https://github.com/tushar-bhat/Minecraft-Plugin-SpawnPoint/assets/79742902/288df010-0fe3-404b-b54a-4e55340b82ad
+https://github.com/tushar-bhat/Minecraft-Plugin-SpawnPoint/assets/79742902/22aa0f26-d0ed-4ef4-a154-a3e4921de404
 
 
 # 
@@ -23,7 +23,8 @@ https://github.com/tushar-bhat/Minecraft-Plugin-SpawnPoint/assets/79742902/288df
 ### This plugin also teleports a player to the server spawn whenever a player respawns
 
 
-https://github.com/tushar-bhat/Minecraft-Plugin-SpawnPoint/assets/79742902/646a2af7-f62e-45a3-abab-4cbbe49685ad
+https://github.com/tushar-bhat/Minecraft-Plugin-SpawnPoint/assets/79742902/5e3b8643-8f9f-4409-804a-475c9369a682
+
 
 
 ### Dev Talk
@@ -33,4 +34,4 @@ The .yml file is stored in the Spawnpoint folder located in server's plugin fold
 
 Example of the details stored in .yml file-
 
-![image](https://github.com/tushar-bhat/Minecraft-Plugin-SpawnPoint/assets/79742902/d560032f-1e62-4077-ae2b-80e65a781614)
+![image](https://github.com/tushar-bhat/Minecraft-Plugin-SpawnPoint/assets/79742902/7124f7ec-c449-4165-abc8-307290574f74)
