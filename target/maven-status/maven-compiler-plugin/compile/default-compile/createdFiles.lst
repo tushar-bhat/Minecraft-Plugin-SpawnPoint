@@ -1,0 +1,5 @@
+spegoman\spawnpoint\util\ConfigUtil.class
+spegoman\spawnpoint\commands\SetSpawn.class
+spegoman\spawnpoint\util\SpawnUtil.class
+spegoman\spawnpoint\commands\Spawn.class
+spegoman\spawnpoint\Spawnpoint.class

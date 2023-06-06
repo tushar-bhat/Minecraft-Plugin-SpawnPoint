@@ -1,0 +1,13 @@
+name: Spawnpoint
+version: '1.0-SNAPSHOT'
+main: spegoman.spawnpoint.Spawnpoint
+api-version: 1.19
+commands:
+  setSpawn:
+    description: Sets the server spawn
+    usage: /setSpawn
+    permission: spawn.set
+  spawn:
+    description: Teleports you to the server spawn
+    usage: /spawn
+    permission: spawn.teleport
